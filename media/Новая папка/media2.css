@@ -1,0 +1,85 @@
+@media screen and (max-width: 380px) {
+    .father {
+        width: 350px;
+    }
+
+    .info {
+        display: none;
+    }
+
+    .header {
+        justify-content: space-evenly;
+        align-items: center;
+        height: 50px;
+    }
+
+    .header_block {
+
+        width: 40%;
+        height: 30px;
+        margin-left: 5px;
+        margin-top: 5px;
+
+    }
+
+
+    .two_icon {
+        width: 70px;
+        height: 70px;
+        margin: 10px;
+    }
+
+
+    .footer {
+        width: 100%;
+        height: 60px;
+    }
+
+
+    .two_two {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+
+    .block {
+        width: 90%;
+        margin: 5px;
+
+    }
+
+    .two_tree {
+        align-items: stretch
+    }
+
+
+    .block2 {
+        width: 97%;
+        height: 50%;
+        margin: 13px;
+
+    }
+
+    .two_tree > .two_two > .a > .tex.width {
+        display: none;
+    }
+
+    .two_five {
+        flex-direction: column;
+    }
+
+    .footer > .header_text > .one_text3 {
+        display: none;
+    }
+
+    .icons {
+        width: 100%;
+        height: 100%;
+    }
+
+    .icon {
+        width: 100px;
+        height: 40px;
+    }
+}

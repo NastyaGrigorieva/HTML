@@ -1,0 +1,23 @@
+@media screen and (max-width: 480px) {
+    .father {
+        width: 400px;
+    }
+
+    @media screen and (max-width: 480px) {
+        .tex {
+            justify-content: space-between;
+        }
+    }
+    @media screen and (max-width: 480px) {
+        .blocks {
+           flex-wrap: wrap;
+        }
+    }
+    @media screen and (max-width: 480px){
+    .two{
+        margin: 4px;
+    }
+    }
+}
+
+

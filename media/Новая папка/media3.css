@@ -1,0 +1,40 @@
+
+@media screen and (max-width: 380px) {
+    .father {
+        width: 350px;
+    }
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+    .info > .knop {
+       display: none;
+    }
+
+    .header {
+        justify-content: space-evenly;
+        align-items: center;
+        height: 40px;
+    }
+    .block3 {
+        width: 180px;
+        height: 1000px;
+        margin: 10px;
+    }
+    .a {
+        height: 80px;
+        width: 130px;}
+    .a2 {
+        justify-content: space-around;
+        height: 200px;
+        width: 150px;}
+    .block2{
+        height: 40%;
+    }
+    .one_text3 {
+        width: 50px;
+        height: 3px;
+        margin: 15px;
+    }
+}
