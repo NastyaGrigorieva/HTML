@@ -1,0 +1,31 @@
+.width600px {
+  width: 600px;
+}
+. height600px{
+  height: 600px;
+}
+.header, .footer, .nav{
+  height: 40px;
+  background: #053cad;
+  align-items: center;
+  margin: 3px;
+}
+.wrap{
+  display: flex;
+}
+.height400{
+  height: 400px;
+}
+.width400{
+  width: 400px;
+}
+.main{
+  background: #20205b;
+}
+.width200px{
+  width: 200px;
+}
+.aside{
+background: darkslateblue;
+
+}

@@ -1,0 +1,218 @@
+.father {
+  width: 400px;
+  height: 890px;
+}
+.width{
+  width: 100%;
+}
+
+.bg1 {
+  background: #20205b;
+}
+
+.bg2 {
+  background: #5cd0a3;
+}
+
+.bg3 {
+  background: #b3d4fc;
+}
+
+.header {
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.radius {
+  border-radius: 7px;
+}
+
+.radius2 {
+  border-radius: 15px;
+}
+
+.header_block {
+  width: 30%;
+  height: 20px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.menu {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.one {
+  height: 80px;
+}
+
+.info {
+  height: 80px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.in {
+  display: flex;
+}
+
+.one_text1 {
+  width: 30px;
+  height: 5px;
+  margin-left: 5px;
+
+}
+
+.one_text2 {
+  width: 70px;
+  height: 5px;
+  margin-left: 5px;
+}
+
+.one_text3 {
+  width: 90px;
+  height: 7px;
+  margin: 5px;
+}
+
+.one_text4 {
+  width: 60px;
+  height: 7px;
+  margin: 5px;
+}
+
+.knop {
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.one_knopka {
+  width: 150px;
+  height: 20px;
+
+}
+
+.two {
+  height: 740px;
+
+}
+
+.one_two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -3%;
+}
+
+.two_two {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 120px;
+  width: 80px;
+}
+
+.block {
+  width: 50%;
+  height: 40%;
+  margin: 10px;
+}
+
+.block2 {
+  width: 97%;
+  height: 30%;
+  margin: 10px;
+}
+
+.tex {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.text3 {
+  width: 36%;
+  height: 10%;
+  margin-left: 5px;
+}
+
+.two_icon {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+
+.block_icon {
+  width: 100%;
+  height: 20px;
+
+}
+
+.two_tree {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.two_four {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.ctrelka {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.two_five {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.icons {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  width: 40px;
+  height: 20px;
+  margin: 15px;
+}
+
+.header_text3 {
+  display: flex;
+
+}
+
+.footer {
+  width: 100%;
+  height: 50px;
+}
