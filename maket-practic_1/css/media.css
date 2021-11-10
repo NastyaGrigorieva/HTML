@@ -1,0 +1,80 @@
+@media screen and (max-width: 400px) {
+    .father {
+        width: 375px;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .header_logo img {
+        padding-top: 20px;
+        width: 50px;
+    }
+
+    .wrapper {
+
+    }
+
+    .header_top {
+        padding-top: 20px;
+    }
+
+    .but_mobile {
+        display: flex;
+        flex-direction: column;
+        row-gap: 4px;
+    }
+
+    .but_mobile div {
+        width: 30px;
+        height: 3px;
+        background: #FF7400;
+        border-radius: 50px;
+    }
+
+    .header_title h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-left: 0;
+    }
+
+    .header_title h1 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+
+    .header_title p::before, .header_title p::after {
+        display: none;
+    }
+
+    .button_menu {
+        margin-left: 0px;
+        margin-top: 22px;
+    }
+
+    .header_title p {
+        margin-left: 0;
+    }
+
+    .header_title {
+        display: flex;
+        align-items: center;
+        margin-left: 0;
+    }
+.center{
+    height:900px;
+}
+.blocks{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 10px 40px 20px;
+}
+.block{
+    margin-top: 15px;
+}
+
+
+
+
+}
