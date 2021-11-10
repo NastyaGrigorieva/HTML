@@ -1,0 +1,155 @@
+.father{
+  height:650px;
+  width: 300px;
+  background: #9820ec;
+
+}
+.header{
+  width: 300px;
+  height: 30px;
+  background: #053cad;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly
+
+}
+.head{
+  width: 50px;
+  height: 20px;
+  background: #b3d4fc;
+}
+.wra{
+  /*display: flex;*/
+  /*justify-content: flex-start;*/
+}
+.w{
+
+}
+.wrap{
+  height: 350px;
+  background: #4a0979;
+  /*display: flex;*/
+  /*justify-content: flex-start;*/
+
+}
+.a2{
+  width:40px;
+  height: 620px;
+  background: #35114d;
+
+}
+.a2_2{
+  width: 20px;
+  height: 40px;
+  background: #b3d4fc;
+  margin: 9px;
+}
+.a3{
+  width:300px;
+  height: 100px;
+  background: #c199de;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a3_1{
+  width: 200px;
+  height: 80px;
+  background: #b3d4fc;
+}
+.a4{
+  width:300px;
+  height: 40px;
+  background: #51817f;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+  align-content: flex-start
+
+}
+.a4_1{
+  width: 30px;
+  height: 30px;
+  background: #b3d4fc;
+  margin: 5px;
+}
+.a5{
+  width: 300px;
+  height: 350px;
+  background: #2323f8;
+}
+.f{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+  align-content: flex-start
+}
+.f2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a5_1{
+  width: 90px;
+  height: 90px;
+  background: #b3d4fc;
+  margin: 7px;
+
+}
+.a5_2{
+  width: 100px;
+  height: 20px;
+  background: #b3d4fc;
+  margin: 5px;
+
+
+
+}
+.a6{
+  width: 100%;
+  height: 20%;
+  background: #a0a0f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.a2_6{
+  width: 100px;
+  height: 10px;
+  background: #b3d4fc;
+  margin: 5px;
+}
+.a2_61{
+  width: 100px;
+  height: 40px;
+  background: #b3d4fc;
+}
+.a7{
+  height: 100px;
+  width: 300px;
+  background: #51817f;
+
+}
+.fa{
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a2_7{
+  height: 30px;
+  width: 250px;
+  background: #b3d4fc;
+
+
+}
+.a2_7_1{
+  height: 30px;
+  width: 100px;
+  background: #1061ff;
+  margin-left: 100px;
+  margin-top: 5px;
+}

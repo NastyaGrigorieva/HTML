@@ -1,0 +1,27 @@
+.father{
+  width: 600px;
+  height: 600px;
+
+
+}
+.header, .footer, .nav{
+  width: 600px;
+  height: 40px;
+  background: #053cad;
+  align-items: center;
+ margin: 3px;
+}
+.wrap{
+  display: flex;
+}
+.main{
+  width: 400px;
+  height: 400px;
+background: #20205b;
+}
+.aside{
+  width: 200px;
+  height: 400px;
+  background: darkslateblue;
+
+}

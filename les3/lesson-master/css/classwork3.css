@@ -1,0 +1,40 @@
+.father{
+  width: 600px;
+  height: 450px;
+  background: slateblue;
+
+}
+.a{
+  width: 600px;
+  height: 150px;
+  background: #de76f6;
+
+}
+.wrap{
+display: flex;
+
+}
+.b{
+  width: 475px;
+  height: 100px;
+  background: #7979fa;
+ margin: 5px;
+
+ }
+.complex{
+  display: flex;
+ }
+
+
+.c,.d,.e {
+  width: 150px;
+  height: 185px;
+  background: #35255e;
+  margin: 5px;
+
+}
+.f{
+  width: 150px;
+  height: 300px ;
+  background: #320b81;
+}

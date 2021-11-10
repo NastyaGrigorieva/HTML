@@ -1,0 +1,35 @@
+.father{
+  width: 600px;
+  height: 600px;
+  background: #4dfc4d;
+
+}
+#header, #footer{
+  width: 600px;
+  height: 100px;
+  background: #b63a3a;
+  align-items: center;
+}
+
+.i{
+  width: 600px;
+  height: 400px;
+  background: rgba(103, 80, 255, 0.43);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+#menu{
+  width: 200px;
+  height: 400px;
+ background: khaki;
+
+
+}
+.post{
+  width: 400px;
+  height: 100px;
+  background: darkviolet;
+  margin: 20px;
+}
+

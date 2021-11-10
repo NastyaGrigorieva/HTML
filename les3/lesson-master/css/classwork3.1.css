@@ -1,0 +1,44 @@
+.father{
+  width: 550px;
+  height: 430px;
+  background: #84d084;
+
+}
+.a{
+  width: 550px;
+  height: 150px;
+  background: #572e62;
+  border: #c0f6ed solid 2px;
+
+}
+.wrap{
+  display: flex;
+
+}
+.b{
+  width: 475px;
+  height: 100px;
+  background: #3939e8;
+  margin: 5px;
+
+}
+.complex{
+  display: flex;
+}
+
+
+.c,.d,.e {
+  width: 120px;
+  height: 120px;
+  background: #35255e;
+  margin: 5px;
+  border-bottom: #b3d4fc solid 3px;
+
+}
+.f{
+  width: 150px;
+  height: 250px ;
+  background: #320b81;
+  margin: 5px;
+  border-left: #b3d4fc solid 3px;
+}

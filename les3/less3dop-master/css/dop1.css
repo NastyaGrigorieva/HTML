@@ -1,0 +1,66 @@
+.father{
+  width: 500px;
+  height: 400px;
+  background: mediumslateblue;
+}
+
+.header, .footer {
+  width: 495px;
+  height: 40px;
+  background: #053cad;
+  align-items: center;
+  margin: 3px;}
+.a{
+  display: flex;
+}
+.wrap{
+  width: 600px;
+  height: 100px;
+
+}
+
+.hero{
+  width: 200px;
+  height: 100px;
+  background: darkviolet;
+}
+
+.sidebar{
+  width: 200px;
+  height: 150px;
+  background: #35114d;
+}
+
+.content {
+width: 300px;
+height: 200px;
+background: #9820ec;
+}
+
+.content2{
+  width: 300px;
+  height: 50px;
+  background: #dbaefa;
+}
+
+.wr {
+  width: 500px;
+  height: 200px;
+  display: flex;
+  align-items: flex-end
+}
+.image{
+  width: 300px;
+  height: 40px;
+  background: #052564;
+  margin: 5px;
+
+}
+
+.post {
+  width: 200px;
+  height: 40px;
+  background: #ae61e5;
+  margin: 5px;
+
+}
